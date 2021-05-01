@@ -2,9 +2,9 @@
 A shellscript to optimization photos on termux
 
 Pre-requisites :
-  -An android phone with installd Termux.
-  -Instlled packet jpegoptim
-  -know your photo dir in termux
+  - An android phone with installd Termux.
+  - Instlled packet jpegoptim
+  - know your photo dir in termux
 
 
 Set-up :
